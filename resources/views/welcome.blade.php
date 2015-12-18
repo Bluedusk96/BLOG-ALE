@@ -46,14 +46,18 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">69deep96</a>
+              <a class="navbar-brand" href="#"></a>    <!-- se rimetto titolo tra  ></a> rifunziona il bottone dellanavbar -->
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
+              
+              
                 <li class="active"><a href="#">Home</a></li>
-                <li><a href="#about">About Me</a></li>
+                <li><a href="aboutme">About Me</a></li>
                 <li><a href="contact">Contact</a></li>
-                <li class="dropdown">
+                
+                
+             <!-- <li class="dropdown">
                   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
                   <ul class="dropdown-menu">
                     <li><a href="#">Action</a></li>
@@ -67,11 +71,11 @@
                 </li>
               </ul>
             </div>
-          </div>
+          </div>-->
         </nav>
 
       </div>
-    </div>
+    </div> 
 
 
     <!-- Carousel
@@ -89,9 +93,10 @@
           <img class="first-slide" src="IMMAGINI SITO/Prima.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-           <h1>Example headline.</h1> 
+            
+        <!--   <h1>Example headline.</h1> 
               <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
-              
+              -->
 
             </div>
           </div>
@@ -100,9 +105,10 @@
           <img class="second-slide" src="IMMAGINI SITO/Seconda.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
+                
+        <!--    <h1>Another example headline.</h1>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              
+              -->
               
            
             </div>
@@ -112,9 +118,10 @@
           <img class="third-slide" src="IMMAGINI SITO/Terza.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
+                   
+        <!-- <h1>One more for good measure.</h1>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              
+              -->
                
             </div>
           </div>
@@ -123,9 +130,10 @@
           <img class="third-slide" src="IMMAGINI SITO/Quarta.jpg" alt="Fourth slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
+                
+        <!--    <h1>One more for good measure.</h1>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              
+              -->
               
             </div>
           </div>
@@ -187,7 +195,7 @@
 
       <!-- START THE FEATURETTES -->
 
-      <hr class="featurette-divider">
+   <!--   <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7">
@@ -223,7 +231,7 @@
         </div>
       </div>
 
-      <hr class="featurette-divider">
+      <hr class="featurette-divider"> -->
 
       <!-- /END THE FEATURETTES -->
 
