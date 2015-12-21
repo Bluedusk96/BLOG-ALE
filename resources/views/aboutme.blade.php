@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,7 +8,7 @@
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <meta name="description" content="">
 <meta name="author" content="">
-<link rel="icon" href="../../favicon.ico">
+<link rel="icon" href="IMMAGINI SITO/Favicon.png">
 
 <title>69deep96</title>
 
@@ -81,7 +81,7 @@
     
 
 
-    <!-- Carousel
+     <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
@@ -90,64 +90,84 @@
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
         <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+        
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="IMMAGINI SITO/Prima.jpg" alt="First slide">
+          <img class="first-slide" src="IMMAGINI SITO/Banner 69nastro.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-         <!--  <h1>Example headline.</h1>
+            
+        <!--   <h1>Example headline.</h1> 
               <p>Note: If you're viewing this page via a <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display properly due to web browser security rules.</p>
-               -->
+              -->
 
-              </div>
-              </div>
-              </div>
-              <div class="item">
-              <img class="second-slide" src="IMMAGINI SITO/Seconda.jpg" alt="Second slide">
-              <div class="container">
-              <div class="carousel-caption">
-           <!--   <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>  
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="second-slide" src="IMMAGINI SITO/Prima.jpg" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+                
+        <!--    <h1>Another example headline.</h1>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              -->
+              
+           
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="third-slide" src="IMMAGINI SITO/Seconda.jpg" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption">
+                   
+        <!-- <h1>One more for good measure.</h1>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
               -->
                
-              </div>
-              </div>
-              </div>
-              <div class="item">
-              <img class="third-slide" src="IMMAGINI SITO/Terza.jpg" alt="Third slide">
-              <div class="container">
-              <div class="carousel-caption">
-             <!-- <h1>One more for good measure.</h1>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="fourth-slide" src="IMMAGINI SITO/Terza.jpg" alt="Fourth slide">
+          <div class="container">
+            <div class="carousel-caption">
+                
+        <!--    <h1>One more for good measure.</h1>
               <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-               -->
-               
-              </div>
-              </div>
-              </div>
-              <div class="item">
-              <img class="third-slide" src="IMMAGINI SITO/Quarta.jpg" alt="Fourth slide">
-              <div class="container">
-              <div class="carousel-caption">
-            <!--  <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-               -->
-
-              </div>
-              </div>
-              </div>
-              </div>
-              <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-              </a>
-              <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-              </a>
-              </div><!-- /.carousel -->
+              -->
               
-               <div class="container marketing">
+                 </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="fifth-slide" src="IMMAGINI SITO/Quarta.jpg" alt="Fifth slide">
+          <div class="container">
+            <div class="carousel-caption">
+                
+        <!--    <h1>One more for good measure.</h1>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              -->
+              
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div><!-- /.carousel -->
+   
+              
+          <div class="container marketing">  
 
       <!-- Three columns of text below the carousel -->
       <div class="row">
@@ -189,27 +209,27 @@
 
  <!-- START THE FEATURETTES -->
 
-      <hr class="featurette-divider">
+      <!--  <hr class="featurette-divider"> -->
 
       <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">First featurette heading. <span class="text-muted">It'll blow your mind.</span></h2>
+        <div class="col-md-8">
+          <h2 class="featurette-heading">69deep96 <span class="text-muted">è Alessandra Peters</span></h2>
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="IMMAGINI SITO/STEMMALE1.jpg" alt="">
+        <div class="col-md-4">
+          <img class="featurette-image img-responsive center-block" src="IMMAGINI SITO/STEMMALE 2.png" alt="">
         </div>
       </div>
 
-      <hr class="featurette-divider">
+    <!--   <hr class="featurette-divider"> -->
 
-      <div class="row featurette">
+   <!-- Featurette Nascoste    <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" src="IMMAGINI SITO/STEMMALE2.png" alt="">
+          <img class="featurette-image img-responsive center-block" src="IMMAGINI SITO/STEMMALE 2.png" alt="">
         </div>
       </div>
 
@@ -221,13 +241,13 @@
           <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block" data-src="IMMAGINI SITO/STEMMALE 2.png" alt="Generic placeholder image">
         </div>
       </div>
 
       <hr class="featurette-divider">
 
-    </div>  <!-- /END THE FEATURETTES -->
+    </div>  <!-- /END THE FEATURETTES --> 
 
             
 

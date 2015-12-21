@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="it">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,7 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
+    <link rel="icon" href="IMMAGINI SITO/Favicon.png">
 
     <title>69deep96</title>
 
@@ -87,10 +87,12 @@
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
         <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+        
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="IMMAGINI SITO/Prima.jpg" alt="First slide">
+          <img class="first-slide" src="IMMAGINI SITO/Banner 69nastro.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
             
@@ -102,7 +104,7 @@
           </div>
         </div>
         <div class="item">
-          <img class="second-slide" src="IMMAGINI SITO/Seconda.jpg" alt="Second slide">
+          <img class="second-slide" src="IMMAGINI SITO/Prima.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
                 
@@ -115,7 +117,7 @@
           </div>
         </div>
         <div class="item">
-          <img class="third-slide" src="IMMAGINI SITO/Terza.jpg" alt="Third slide">
+          <img class="third-slide" src="IMMAGINI SITO/Seconda.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
                    
@@ -127,7 +129,19 @@
           </div>
         </div>
         <div class="item">
-          <img class="third-slide" src="IMMAGINI SITO/Quarta.jpg" alt="Fourth slide">
+          <img class="fourth-slide" src="IMMAGINI SITO/Terza.jpg" alt="Fourth slide">
+          <div class="container">
+            <div class="carousel-caption">
+                
+        <!--    <h1>One more for good measure.</h1>
+              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+              -->
+              
+                 </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="fifth-slide" src="IMMAGINI SITO/Quarta.jpg" alt="Fifth slide">
           <div class="container">
             <div class="carousel-caption">
                 
@@ -234,6 +248,13 @@
       <hr class="featurette-divider"> -->
 
       <!-- /END THE FEATURETTES -->
+      
+         <div class="col-md-12">
+          <!--  <img class="featurette-image img-responsive center-block" src="IMMAGINI SITO/STEMMALE 2.png" alt=""> -->
+        </div>
+      </div>
+      <hr class="featurette-divider"> 
+       <div class="container marketing"> 
 
 
       <!-- FOOTER -->
